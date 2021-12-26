@@ -1,0 +1,62 @@
+/* <style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+</style> */
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.navegacion{
+    background-color: #28A745;
+}
+
+.contacto{
+    background-color: #28A745;
+}
+
+.boton{
+    background-color: #F8F9FA;
+}
+.pie{
+    color: #707070;
+}
+.fin{
+    line-height: 100%;
+    color: #707070;
+}
+.valor{
+    font-family: 'Roboto', sans-serif;
+    color: #28A745;
+    font-size: 20pt;
+    font-weight: 500;
+}
+
+.oferta{
+    font-family: 'Roboto', sans-serif;
+    color: #28A745;
+    font-weight: 500;
+    font-size: 20pt;
+
+}
+/* h3{
+    font-family: "roboto", light;
+} */
+.titulo-producto{
+    font-family:'Roboto',;
+    font-weight: 300;
+    font-size: 20pt;
+    color: #212529;
+}
+
+.gris{
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+    font-weight: 300;
+    font-size: 16pt;
+}
+
+/* .antes-precio{
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+    font-weight: 300;
+    font-size: 16pt;  
+} */
